@@ -1,0 +1,44 @@
+
+<html>
+<body style="background-color:powderblue;">
+<h1>Insanity Learner HUNT Form</h1>
+<form>
+<label>First Name:</label>
+<input type="text" name="First Name"><br><br>
+<label>Last Name:</label>
+<input type="text" name="Last Name"><br><br>
+<label>Select your Gender</label>
+<input type="radio" name="Male">Male
+<input type="radio" name="Female">Female
+<input type="radio" name="Others">Others<br><br>
+<label>Password:</label>
+<input type="text" name="Password"><br><br>
+<label>Confirm Password:</label>
+<input type="text" name="Confirm Password"><br><br>
+<label>Email id:</label>
+<input type="Email" name="Email id"><br><br>
+<label>Mobile No:</label>
+<input type="text" name="Mobile"><br><br>
+<label>Date</label>
+<input type="date" name="date"><br><br>
+<label>Points</label>
+<input type="number" name="points"><br><br>
+<select>
+<option>Program</option>
+<option value="Digital Marketing">Digital Marketing</option>
+<option value="Web Dev">Web Dev</option>
+<option value="AWS">AWS</option>
+</select><br><br> 
+<p>Write about yourself:</p>
+<textarea cols="40" rows="6"></textarea>
+<p>Please read all the instructions carefully</p>
+<input type="checkbox" name="checkbox">I read it carefully
+<input type="reset" name="reset" >  Reset my for<br><br>
+<input type="submit" name="submit" >  submit form
+
+
+
+
+</form>
+
+</html>

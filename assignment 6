@@ -1,4 +1,5 @@
 
+
 <html>
 <body style="background-color:powderblue;">
 <h1>Insanity Learner HUNT Form</h1>
@@ -8,9 +9,9 @@
 <label>Last Name:</label>
 <input type="text" name="Last Name"><br><br>
 <label>Select your Gender</label>
-<input type="radio" name="Male">Male
-<input type="radio" name="Female">Female
-<input type="radio" name="Others">Others<br><br>
+<input type="radio" name="Gender">Male
+<input type="radio" name="Gender">Female
+<input type="radio" name="Gender">Others<br><br>
 <label>Password:</label>
 <input type="text" name="Password"><br><br>
 <label>Confirm Password:</label>

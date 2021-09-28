@@ -1,27 +1,26 @@
 
 <html>
 <head>
-<meta name="view port"
-content="width=device-width,
-initial-scale=1">
+<title>Assignment</title>
+
 <style>
 h2{
 text-align:left;
 }
-#more {display:none;}
+
 </style>
 </head>
 <body>
 <h1 style="color:blue;"><u>Insanity Learner</u></h1>
 <ul>
 
-<li><u><a href="google.com">Home</a></u></li><br>
-<li><u><a href="google.com"> About </a>Us</u></li><br>
-<li><u><a href="google.com">Technologies</a></u></li><br>
-<li><u><a href="google.com">Projects</a></u></li><br>
-<li><u><a href="google.com">Contacts</a></u></li>
+<li><u><a href="https://www.google.com">Home</a></u></li><br>
+<li><u><a href="https://www.google.com"> About Us </a></u></li><br>
+<li><u><a href="https://www.google.com">Technologies</a></u></li><br>
+<li><u><a href="https://www.google.com">Projects</a></u></li><br>
+<li><u><a href="https://www.google.com">Contacts</a></u></li>
 </ul></br>
-</body>
+
 <h1>Be Innovative!</h1>
 <h2>Open-minded</h2>
 <p>every option should be explode and tried no matter how unpredictable impossible insane or    be explode and tried no matter .</p>

@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>ASSign</title>
+</head>
+<body>
+<h1>Use Div tag</h1>
+<div style="border:3px solid blue;">
+<h2 style="color:blue;">Quotation Tags Example</h2>
+<address>
+   <B> Address</B> <br>
+    123,House<br>
+    HTML    <br> 
+    <B>Contact US</B>  <br>
+    Contact No:1234567890<br>
+Email ID:insanity123@gmail.com
+    </address><br>
+<abbr>
+    <b>Abbreviation Tag</b><br>
+    <p>"Building with idle we have decided to focus a part of our energies on building a platform "for in centillion not to build a learning platform that help all of us in our learning Journeys and helps provide a better learning experience stay connected lorem ipsum dolor sit amet consectetuer adipiscing elit brand is distinctive venchers' smallest you are saying live with fruits day stay connected<br><br>
+    <b>Stay Connected</b>    </p>
+</abbr>
+</div>"
+</body>
+</html>

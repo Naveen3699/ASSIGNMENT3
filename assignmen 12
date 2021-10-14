@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Asiign12</title>
+<style>
+  .new a{
+  color:yellow
+}
+.snow a{
+  color:green
+}
+body{
+  background-image:url("Saibaba-Mantra-1.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+</style>
+
+</head>
+<body>
+  <div class="new">
+    <a href="#HOME">Home</a>&nbsp;&nbsp;
+      <a href="#VIDEOS">Videos</a>&nbsp;&nbsp;
+        <a href="#Portfolio">Portfolio</a>&nbsp;&nbsp;
+          <a href="#Blog">Blog</a>&nbsp;&nbsp;
+          <a href="#Contact us">Contact us</a>&nbsp;&nbsp;
+          <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+        </div>
+  
+  <h1 style="text-align:center;">Beautiful And SIMPLE WEB PAGE</h1><br> <br>
+  <h3 style="text-align: center;">Welcome to insanity Learner</h3>
+  <h1 style="text-align:center;"><a href="https://www.google.com;">GET STARTED</a></h1>
+<p style="text-align:center;">Write about yourself</p>
+<br> <br> <br> <br> <br> <br> <br>
+<hr>
+<div class="snow">
+ <a href="#About us">About us</a>&nbsp;&nbsp;
+  <a href="#Privacy and Policy">Privacy and Policy</a>&nbsp;&nbsp;
+  <a href="#Terms">Terms</a>&nbsp;&nbsp;
+  <a href="#Consultants">Consultants</a>&nbsp;&nbsp;
+  <a href="#FAQ Partners">FAQ Partners</a>&nbsp;&nbsp;
+  </div>
+
+</body>
+</html>

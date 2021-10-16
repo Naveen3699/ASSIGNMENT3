@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>assigncss3</title>
+<style>
+    body{
+        background-image:url("330px-Aristotle_Onassis_1967cr.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+}
+    
+</style>
+<body>
+<h1 style="color:blue;text-align: center;">Insanity Learner Survey FORM</h1>
+<p style="font-size:20px;text-align: center;">Thank you for taking the time to help us improve the platform</p>
+<form>
+    <label for=" NAME">Name:</label><br>
+    <input type="text" id=" NAME" name=" Name"><br>
+    <label for="Email">Email:</label><br>
+    <input type="text" id="Email" name="Email"><br>
+    <label for="age">Age:</label><br>
+    <input type="number" id="number" name="number"><br>
+    <label for="select current role">which option describes your current role?</label><br>
+    <input type="text" id="select current role" name="select current role"><br>
+    <h1>Would you recommend Insanity Learner to a friend?</h1>
+    <p>
+        Definitely<input type="radio" name="Would you recommend Insanity Learner to a friend" id="">
+        Maybe<input type="radio" name="Would you recommend Insanity Learner to a friend" id="">
+        Not Sure<input type="radio" name="Would you recommend Insanity Learner to a friend" id="">
+    </p>
+    <h1>What is your favourite feature of insanity learner?</h1>
+    <select>
+        <option value="guidance">Guidance</option>
+        <option value="Scrum">scrum</option>
+        <option value="One to One">one to one</option>
+        <option value="Quizes">Quizes</option>
+
+    </select>
+    <h1>What would you like to see improved?(check all that apply)</h1>
+    <input type="checkbox" id="improvements" name="Improvements" >Front-end Projects<br>
+    <input type="checkbox" id="improvements" name="Improvements">Back-end Projects<br>
+    <input type="checkbox" id="improvements" name="Improvements">Data Visualization<br>
+    <input type="checkbox" id="improvements" name="Improvements" >Programming Languages<br>
+    <input type="checkbox" id="improvements" name="Improvements">Open Source Community<br>
+    <input type="checkbox" id="improvements" name="Improvements">VIDEOS<br>
+    <input type="checkbox" id="improvements" name="Improvements" >Forum<br>
+    <input type="checkbox" id="improvements" name="Improvements" >Programming Languages<br>
+    <h1>Any comments or suggestions?</h1>
+    <textarea rows="5" cols="50" name="comment" form="usform">Enter your comment here</textarea>
+    
+
+    </form>
+
+</body>

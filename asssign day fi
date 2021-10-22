@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>assigncssfive</title>
+<style>
+  p{
+    text-align: center;
+  }
+  .tre{
+    background-color:brown;
+  }
+    table, th, td {
+  border:1px solid black;
+    }
+.head1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+div{background-color: pink;}
+    </style>
+    <body style="background-color: blue;">
+    <h1 class="head1">This is a Story</h1>
+    <h2 class="head1">This is a fantastic day and night match</h2>
+    <h3>Hello</h3>
+    <div>
+        <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h3>Hello</h3>
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, beatae!
+      <hr>
+      <h1>HI</h1>
+    </div>
+    <div class="tre">
+        
+            <table style="width:100%">
+              <tr>
+                <th>Andhra</th>
+                <th>Telangana</th>
+                <th>Maharastra</th>
+                <th>TamilNadu</th>
+                <th>Karnataka</th>
+                <th>Gujarat</th>
+              </tr>
+              <tr>
+                <td>Vijayawada Vizag</td>
+                <td>Hyderabad Warangal</td>
+                <td>Mumbai </td>
+                <td>Madurai</td>
+                <td>Bangalore</td>
+                <td>Ahmedabad</td>
+              </tr></table>
+    </div>
+    <p> VERY BEST</p>
+    
+        
+    
+    </body>
